@@ -6,7 +6,7 @@
   <properties>
 	  <sonar.organization>jacevedob</sonar.organization>
 	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+  </properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
